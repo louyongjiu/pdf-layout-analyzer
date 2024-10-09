@@ -1,4 +1,4 @@
-# Analyze PDF Layout / 分析 PDF 布局
+# pdf-layout-analyzer
 
 `pdf-layout-analyzer` 是一个简单的 JavaScript 库，旨在将 PDF 文本元素按行和列进行排序，并确定它们的方向。此函数可用于处理 PDF 文档中的文本数据，帮助开发者更好地理解和利用 PDF 内容。
 
