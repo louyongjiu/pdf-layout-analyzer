@@ -1,6 +1,6 @@
 {
   "name": "pdf-layout-analyzer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一个简单的 JavaScript 库，用于分析 PDF 文档中的布局。该库能够将 PDF 文档中的文本元素按行和列进行排序，适用于需要处理 PDF 文档布局的场景。 A simple JavaScript library for analyzing the layout of PDF documents. This library can sort text elements in PDF documents by rows and columns, suitable for scenarios that require handling PDF document layouts.",
   "main": "src/index.js",
   "scripts": {
