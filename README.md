@@ -1,8 +1,8 @@
 # Analyze PDF Layout / 分析 PDF 布局
 
-`analyzePdfLayout` 是一个用于分析 PDF 布局的 JavaScript 函数，旨在将 PDF 文本元素按行和列进行排序，并确定它们的方向。此函数可用于处理 PDF 文档中的文本数据，帮助开发者更好地理解和利用 PDF 内容。
+`pdf-layout-analyzer` 是一个用于分析 PDF 布局的 JavaScript 函数，旨在将 PDF 文本元素按行和列进行排序，并确定它们的方向。此函数可用于处理 PDF 文档中的文本数据，帮助开发者更好地理解和利用 PDF 内容。
 
-`analyzePdfLayout` is a JavaScript function designed to analyze the layout of PDF documents by sorting text elements into rows and columns, and determining their direction. This function can be used to process text data from PDF documents, helping developers better understand and utilize PDF content.
+`pdf-layout-analyzer` is a JavaScript function designed to analyze the layout of PDF documents by sorting text elements into rows and columns, and determining their direction. This function can be used to process text data from PDF documents, helping developers better understand and utilize PDF content.
 
 ## 特性 / Features
 
@@ -108,4 +108,4 @@ MIT 许可证。请查看 [LICENSE](LICENSE) 文件以获取更多信息。/ MIT
 
 ---
 
-如需了解更多信息，请查看 [项目主页](https://github.com/louyongjiu/analyze-pdf-layout)。/ For more information, please visit the [project homepage](https://github.com/louyongjiu/analyze-pdf-layout).
+如需了解更多信息，请查看 [项目主页](https://github.com/louyongjiu/pdf-layout-analyzer)。/ For more information, please visit the [project homepage](https://github.com/louyongjiu/pdf-layout-analyzer).
